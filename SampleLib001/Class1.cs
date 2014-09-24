@@ -6,7 +6,7 @@ using System.Text;
 namespace SampleLib001
 {
     /// <summary>
-    /// Dummy class 001
+    /// Dummy class 002 - from lapt
     /// </summary>
     public class Class1
     {
